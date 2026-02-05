@@ -22,7 +22,7 @@ public class AppIndependentMethods {
      * Method Name      : clickObject()
      * purpose          : To click the given element
      * parms            :
-     * return type      :
+     * return type      :boolean
      * call Statement   :
      **********************************************/
     public static boolean clickObject(WebDriver oBrowser, By objBy){
